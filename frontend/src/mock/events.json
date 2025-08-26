@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "evt1",
+    "title": "Cours salsa cubaine d\u00e9butant",
+    "date": "2025-08-22",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "location": "Studio Latino - Centre",
+    "level": "D\u00e9butant",
+    "teacher": "Aur\u00e9lien",
+    "tags": [
+      "cours",
+      "cubaine"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "participants": [
+      {
+        "name": "L\u00e9a",
+        "avatarUrl": "https://i.pravatar.cc/40?img=1"
+      },
+      {
+        "name": "Marco",
+        "avatarUrl": "https://i.pravatar.cc/40?img=2"
+      }
+    ]
+  },
+  {
+    "_id": "evt2",
+    "title": "Soir\u00e9e salsa - Manzanillo Libre",
+    "date": "2025-08-22",
+    "startTime": "21:00",
+    "endTime": "23:30",
+    "location": "Manzanillo Libre",
+    "level": "Tous niveaux",
+    "teacher": "",
+    "tags": [
+      "soir\u00e9e",
+      "cubaine"
+    ],
+    "videoUrl": "",
+    "participants": [
+      {
+        "name": "Samir",
+        "avatarUrl": "https://i.pravatar.cc/40?img=3"
+      }
+    ]
+  },
+  {
+    "_id": "evt3",
+    "title": "Stage porto - tours \u00e0 droite",
+    "date": "2025-08-22",
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "location": "Studio 2",
+    "level": "Interm\u00e9diaire",
+    "teacher": "Luna",
+    "tags": [
+      "stage",
+      "porto"
+    ],
+    "videoUrl": "",
+    "participants": []
+  }
+]
